@@ -1,16 +1,16 @@
-### Hi there 👋
+# RurickDev
 
-<!--
-**rurickdev/rurickdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone, I'm an passionate developer that loves to lear new things
+discover new technologies. :heart: 👨‍💻
 
-Here are some ideas to get you started:
+I'm a developer, comic and book reader, gamer, geek by all the word!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Abilities:
+
+- Flutter & Dart
+- NodeJS & JavaScript
+- HTML5 & CSS3
+- SASS
+- Bulma
+- Bootstrap
+- Gitflow
